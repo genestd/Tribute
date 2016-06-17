@@ -1,1 +1,126 @@
 
+body{
+  background-color: #000000;
+} 
+header{
+  text-align: center;
+  color:#FFFFFF;
+
+}
+footer{
+  background-color:#4A777A;
+  text-align: center;
+  color:#000000;
+  padding:5px;
+}
+i{
+  padding: 3px;
+}
+.divider{
+  height: 1px;
+  width: 100%;
+  align: center;
+  display: block;
+  margin:20px 0;
+  overflow: hidden;
+  background-color: #E5E5E5;
+}
+.no-padding{
+    margin:0 !important;
+    padding:0 !important;
+} 
+ #quote{
+  color:#FFFFFF;
+}
+#topleft, #topright, #bottomleft, #bottomright{
+  position: relative;
+}
+#topleft img, #topright img, #bottomleft img {
+  display:block;
+  width:100%;
+}
+#bottomright img{
+  display:block;
+  width:100%;
+  padding: 51px 0 0 0;
+}
+#topleft h3{
+    position: absolute;
+    text-align: right;
+    top: 0;
+    left: 0;
+    right: 20px;
+    color: white;
+}
+#topright h3{
+    position: absolute;
+    text-align: left;
+    top: 0;
+    left: 20px;
+    right: 0;
+    color: white;
+}
+#bottomleft h3{
+    position: absolute;
+    text-align: right;
+    top: 0;
+    left: 0;
+    right: 50px;
+    color: #FFFFFF;
+}
+#bottomright h3{
+    position: absolute;
+    text-align: left;
+    top: 0;
+    left: 20px;
+    right: 0;
+    color: white;
+}
+#awards{
+    position: absolute;
+    text-align: right;
+    top: 60px;
+    left: 0;
+    right: 20px;
+    color: white;  
+}
+#summary{
+  text-align: center;
+  color: #FFFFFF;
+  margin: 15px 0px 15px 0px;
+}
+/* blue: #002244
+   green: #4A777A
+   red: #C60C30
+html, body, .container-fluid {
+    min-height:100px;
+}
+.toprow {
+    min-height: 100px;
+}
+.bottomrow {
+    min-height: 100px;
+}
+
+.border1 {
+    text-align: center;
+    height:100%;
+    background-color:#FFFFFF;
+    padding: 25px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #AAAAAA;
+}
+.border2 {
+    text-align: center;
+    background-color: #FFFFFF;
+    height: 100%;
+    padding: 25px;
+    border-style:solid;
+    border-color: #AAAAAA;
+    border-width:1px;
+}
+img{
+  height: auto;
+  width:80%;
+}*/
